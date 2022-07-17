@@ -6,6 +6,6 @@ And some  content
 
 Also this is always a good reason to order more than you need...  
 Before:
-![Before](/pictures/first_package_extras.jpeg | width=200)
+<img src="/pictures/first_package_extras.jpeg" alt="Before" width="200"/>
 After:
-![After](/pictures/first_package_extras_after.jpeg | width=200)
+<img src="/pictures/first_package_extras_after.jpeg" alt="Before" width="200"/>
