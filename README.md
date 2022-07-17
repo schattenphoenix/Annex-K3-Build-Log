@@ -27,12 +27,15 @@ In this section I will keep track of my sourcing efforts. Every item worth menti
 If you feel like supporting this build and get mentioned here, you can contact me on Discord (Alex#8260) or create an issue here.
 
 ### What I already got
-- [x] Frame
-    - Source LDO Motors and [Caribou3d](https://caribou3d.com)
-- [x] Motors
-    - Source LDO Motors and [Caribou3d](https://caribou3d.com)
-- [x] Linear Rails
-    - Source LDO Motors and [Caribou3d](https://caribou3d.com)
+- [x] [Frame](/sourcing/sourcing1-first-package.md)
+    - Source [LDO Motors](http://ldomotors.com/) and [Caribou3d](https://caribou3d.com)
+    - Buy here [LDO Frame kit on Caribou3d](https://caribou3d.com/en/annex-k3/925-annex-k3-frame-kit.html)
+- [x] [Motors](/sourcing/sourcing1-first-package.md)
+    - Source [LDO Motors](http://ldomotors.com/) and [Caribou3d](https://caribou3d.com)
+    - Buy here [LDO Motors kit on Caribou3d](https://caribou3d.com/en/annex-k3/857-annex-k3-motor-kit.html)
+- [x] [Linear Rails](/sourcing/sourcing1-first-package.md)
+    - Source [LDO Motors](http://ldomotors.com/) and [Caribou3d](https://caribou3d.com)
+    - Buy here [LDO Rails kit on Caribou3d](https://caribou3d.com/en/annex-k3/928-annex-engineering-k3-rail-kit-stainless.html)
 
 ### What am I currently sourcing
 - [ ] Fasteners
