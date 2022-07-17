@@ -7,7 +7,9 @@
 ## Pictures
 
 ![Package arrived!](/pictures/first_package_1.jpeg)
-And some  content
+
+### Content
+
 ![Package contents](/pictures/first_package_contents.jpeg)  
 
 
