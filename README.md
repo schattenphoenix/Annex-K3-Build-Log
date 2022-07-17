@@ -5,7 +5,12 @@ Check it out here: <https://github.com/Annex-Engineering/Gasherbrum-K3>
 ## Introduction
 ### Who am I?
 I'm Alex.  
-Some people in the community know my by exactly that name on Discord (Alex#8260). I've been pretty active in the community since about the middle of 2021 and have been meddling with basically everything I could get my hands on since then.
+Some people in the community know my by exactly that name on Discord (Alex#8260). I've been pretty active in the community since about the middle of 2021 and have been meddling with basically everything I could get my hands on since then.  
+  
+I did create a server for gathering feedback on Voron Kits you can find here: [Discord Server](https://discord.gg/xXukSAEUwj)  
+  
+
+You can definitely find me there or on either the Annex, VzBot or Voron Discord.
 
 ### Why this build?
 Some of you might ask this question.  
@@ -33,7 +38,7 @@ If you feel like supporting this build and get mentioned here, you can contact m
 - [ ] Fasteners
     - Currently in talks with [Caribou3d](https://caribou3d.com)
 - [ ] Panels
-    - Currently in talks with PrintyPlease
+    - Currently in talks with [PrintyPlease](https://printyplease.uk)
 - [ ] Bed, bed heater, magnet, flex plate
     - Currently in talks with multiple sources [ [Noctus3D](https://noctus3d.com), [PrintyPlease](https://printyplease.uk), [LDO Motors](http://ldomotors.com/) ]
 - [ ] Motion parts ( idlers, pulleys, belts, ... )
